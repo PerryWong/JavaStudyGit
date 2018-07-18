@@ -4,7 +4,7 @@ public class FirstClazz {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("print first");
+		System.out.println("v 1.0.0");
 	}
 
 }
